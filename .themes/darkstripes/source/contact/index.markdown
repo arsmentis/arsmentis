@@ -1,14 +1,20 @@
 ---
 layout: page
-title: "Contact"
+title:
 comments: false
 sharing: false
 footer: true
 ---
 
+Contact Me
+----------
+
+Feel free to call or email me with your questions.
+
 517.325.3759
 
 james@arsmentis.com
 
-5208 W SAGINAW HWY #80421    
-LANSING MI 48908
+Ars Mentis, LLC    
+5208 W Saginaw HWY #80421    
+Lansing MI 48908
