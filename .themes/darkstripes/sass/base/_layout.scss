@@ -87,6 +87,19 @@ body {
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;
   }
+
+  > header ul {
+    list-style-type: none;
+    float: right;
+    margin-top: 1.5em;
+    width: 55%;
+  }
+  > header li a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+  }
 }
 
 #content {
