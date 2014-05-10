@@ -33,6 +33,12 @@ $nav-border-bottom: darken($nav-bg, 25) !default;
 $nav-border-left: darken($nav-bg, 11) !default;
 $nav-border-right: lighten($nav-bg, 7) !default;
 
+/* Navigation Link Colors */
+$nav-link-color: #fff !default;
+$nav-link-color-hover: desaturate(darken($nav-link-color, 15), 15) !default;
+$nav-link-color-visited: $nav-link-color;
+$nav-link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
 /* Sidebar colors */
 $sidebar-bg: #f2f2f2 !default;
 $sidebar-link-color: $link-color !default;
@@ -62,6 +68,9 @@ $page-border-bottom: darken($footer-bg, 5) !default;
 a {
   @include link-colors($link-color, $hover: $link-color-hover, $focus: $link-color-hover, $visited: $link-color-visited, $active: $link-color-active);
 }
+a.nav-link {
+  @include link-colors($nav-link-color, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
+}
 img {
   width:100%;
   max-width:400px;
@@ -90,7 +99,6 @@ body {
     }
   }
 }
-
 .notfound404 article{
   margin-left: 0 !important;
 }
