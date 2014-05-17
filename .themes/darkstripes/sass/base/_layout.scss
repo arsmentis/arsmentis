@@ -202,3 +202,18 @@ body.sidebar-footer {
     ul, ol { margin-left: 0; }
   }
 }
+
+@media only screen and (max-width: 950px) {
+  ul.main-navigation {
+    float: left;
+    width: 100%;
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  ul.main-navigation {
+    visibility: hidden;
+    width: 0%;
+  }
+}
