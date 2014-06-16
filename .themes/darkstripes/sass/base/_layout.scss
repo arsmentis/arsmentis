@@ -108,6 +108,7 @@ body {
 }
 
 aside.sidebar {
+  visibility: hidden;
   float: none;
   padding: 0 $pad-min 1px;
   background-color: lighten($sidebar-bg, 2);
