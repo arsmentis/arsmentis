@@ -1,13 +1,10 @@
 ---
 layout: page
-title:
+title: Contact
 comments: false
 sharing: false
 footer: true
 ---
-
-Contact Me
-----------
 
 Feel free to call or email me with your questions.
 
