@@ -1,13 +1,10 @@
 ---
 layout: page
-title: 
+title: Services
 comments: false
 sharing: false
 footer: true
 ---
-
-Services
---------
 
 Praesent aliquet sit amet dolor sollicitudin hendrerit. Integer gravida mattis porttitor. Etiam in cursus quam. Etiam et metus nunc. Sed tincidunt, dolor et tincidunt sodales, lorem risus consequat purus, sit amet pellentesque magna quam quis libero. Nullam odio odio, auctor a metus sed, lobortis varius sapien.
 
