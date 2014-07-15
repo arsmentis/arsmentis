@@ -93,12 +93,15 @@ body {
     float: right;
     margin-top: 2em;
     width: 55%;
+    margin-right: 0.5em;
+    font-family: "Times New Roman", Times, serif;
   }
   > header li a {
     float: left;
-    width: 20%;
-    text-align: center;
+    width: 25%;
+    text-align: right;
     text-decoration: none;
+    text-transform: uppercase;
   }
 }
 
