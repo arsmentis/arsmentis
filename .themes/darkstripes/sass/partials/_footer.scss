@@ -1,6 +1,7 @@
 body > footer {
   @extend .sans;
-  font-size: .8em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
   color: $footer-color;
   position: relative;
   padding-top: 2em;
