@@ -1,8 +1,8 @@
 $img-border: inline-image('dotted-border.png');
 
 // Main Link Colors
-$link-color: #3464a4 !default;
-$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+$link-color: #666 !default;
+$link-color-hover: adjust-color($link-color, $lightness: 20, $saturation: 0) !default;
 $link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
@@ -33,6 +33,12 @@ $nav-border-bottom: darken($nav-bg, 25) !default;
 $nav-border-left: darken($nav-bg, 11) !default;
 $nav-border-right: lighten($nav-bg, 7) !default;
 
+/* Navigation Link Colors */
+$nav-link-color: #fff !default;
+$nav-link-color-hover: desaturate(darken($nav-link-color, 15), 15) !default;
+$nav-link-color-visited: $nav-link-color;
+$nav-link-color-active: $nav-link-color;
+
 /* Sidebar colors */
 $sidebar-bg: #f2f2f2 !default;
 $sidebar-link-color: $link-color !default;
@@ -45,7 +51,7 @@ $sidebar-link-color-subdued: lighten($sidebar-color, 20) !default;
 $sidebar-link-color-subdued-hover: $sidebar-link-color-hover !default;
 $twitter-status-link: lighten($sidebar-link-color-subdued, 15) !default;
 
-$footer-color: #444 !default;
+$footer-color: #fff !default;
 $footer-bg: #ccc !default;
 $footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11)) !default;
 $footer-color: darken($footer-bg, 38) !default;
@@ -61,6 +67,9 @@ $page-border-bottom: darken($footer-bg, 5) !default;
 
 a {
   @include link-colors($link-color, $hover: $link-color-hover, $focus: $link-color-hover, $visited: $link-color-visited, $active: $link-color-active);
+}
+a.nav-link {
+  @include link-colors($nav-link-color, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
 }
 img {
   width:100%;
@@ -90,7 +99,6 @@ body {
     }
   }
 }
-
 .notfound404 article{
   margin-left: 0 !important;
 }
@@ -108,27 +116,20 @@ body {
     -moz-border-radius: 0.4em;
     -webkit-border-radius: 0.4em;
     border-radius:0.4em;
-    margin-bottom: 2em;
-  }
-
-  body > footer{
-    -moz-border-radius-bottomleft: 0.4em;
-    -moz-border-radius-bottomright: 0.4em;
-    -webkit-border-radius: 0 0 0.4em 0.4em;
-    border-radius: 0 0 0.4em 0.4em;
+    margin-bottom: 0;
   }
 
   #main{
     -moz-border-radius-topleft: 0.4em;
     -moz-border-radius-topright: 0.4em;
-    -webkit-border-radius: 0.4em 0.4em 0 0;
-    border-radius: 0.4em 0.4em 0 0;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
   }
 
   #content{
     -moz-border-radius-topleft: 0.4em;
-    -webkit-border-radius: 0.4em 0.4em 0 0;
-    border-radius: 0.4em 0.4em 0 0;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
   }
 
   #content .blog-index a[rel="full-article"]{

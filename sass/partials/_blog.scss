@@ -1,18 +1,21 @@
 article {
   padding-top: 1em;
   a { @extend .force-wrap; }
-  p{
+  p {
     text-align:justify;
     margin-bottom: 1em;
+    font-family: 'Open Sans', sans-serif;
   }
+  ul li { font-family: 'Open Sans', sans-serif; }
   header {
     position: relative;
-    padding-top: 2em;
+    padding-top: 0;
     padding-bottom: 1em;
     margin-bottom: 1em;
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
+      font-family: serif;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
     }
@@ -35,6 +38,7 @@ article {
   h2 {
     padding-top: 0.8em;
     background: $img-border top left repeat-x;
+    font-family: serif;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
