@@ -1,12 +1,11 @@
 body > footer {
   @extend .sans;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: .9em;
   color: $footer-color;
   position: relative;
   padding-top: 2em;
   padding-bottom: 1em;
-  margin-bottom: 2em;
   z-index: 1;
   p { text-align: center; }
 }
