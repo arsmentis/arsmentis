@@ -73,7 +73,7 @@ a.nav-link {
 }
 img {
   width:100%;
-  max-width:400px;
+  max-width:350px;
 }
 aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
@@ -88,6 +88,7 @@ html {
 body {
   #main {
     background: $main-bg;
+    width: 85%;
   }
   #content{
     background: $content-bg;
