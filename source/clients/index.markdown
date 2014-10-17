@@ -25,6 +25,13 @@ Sharp Up, LLC - Thoughtback & Demand Food Apps
 
 [Thoughtback](https://thoughtback.com/) is a Web & Mobile app that allows its users to save and organize their thoughts and ideas. My duties during the early development of the application included a lot of website and API development in PHP. Recently, I created Thoughtback's Android app.
 
+Olivet College - IT Consulting & Adjunct Professor
+--------------------------------------------------
+
+Initially, I helped [Olivet College](http://www.olivetcollege.edu/) with Linux Server/Workstation Management and Configuration, and general IT consulting.
+
+I was also an Adjunct Professor for Olivet College's Computer Science Department, where I taught classes such as College Algebra, Competition Programming, and _______.
+
 Habla, LLC - Olark
 ------------------
 
@@ -44,10 +51,3 @@ Edgewater Apartments - Website Development
 ------------------------------------------
 
 [Edgewater Apartments](http://www.edgewaterapartments.com/) is a local business in Eaton Rapids, MI. I created their website to their specifications, and handled hosting of the site, as well as general troubleshooting of their office computers, configuration of their office network, and general consulting.
-
-Olivet College - IT Consulting & Adjunct Professor
---------------------------------------------------
-
-Initially, I helped [Olivet College](http://www.olivetcollege.edu/) with Linux Server/Workstation Management and Configuration, and general IT consulting.
-
-I was also an Adjunct Professor for Olivet College's Computer Science Department, where I taught classes such as College Algebra, Competition Programming, and _______.
