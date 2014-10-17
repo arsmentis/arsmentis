@@ -52,4 +52,4 @@ Olivet College - IT Consulting & Adjunct Professor
 
 Initially, I helped Olivet College with Linux Server/Workstation Management and Configuration, and general IT consulting.
 
-I was also an Adjunct Professor for Olivet College's Computer Science Department, where I (met the cutest Web Developer in existence and) taught classes such as College Algebra, Competition Programming, and _______.
+I was also an Adjunct Professor for Olivet College's Computer Science Department, where I taught classes such as College Algebra, Competition Programming, and _______.
