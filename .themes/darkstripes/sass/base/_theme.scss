@@ -73,7 +73,7 @@ a.nav-link {
   @include link-colors($nav-link-color-2, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
 }
 img {
-  width:100%;
+  width:97%;
   max-width:350px;
 }
 aside.sidebar a {
@@ -110,10 +110,65 @@ body {
   body > header h2 { padding-left: 3px; }
 
   body > footer { margin-bottom: 3em; }
+
+  body > nav {
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    border-radius:0.4em;
+    margin-bottom: 0;
+  }
+
+  #main{
+    -moz-border-radius-topleft: 0.4em;
+    -moz-border-radius-topright: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content{
+    -moz-border-radius-topleft: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content .blog-index a[rel="full-article"]{
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+  }
 }
 
 @media only screen and (min-width: 1040px) {
  
+  body > nav {
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    border-radius:0.4em;
+    margin-bottom: 0;
+  }
+
+  #main{
+    -moz-border-radius-topleft: 0.4em;
+    -moz-border-radius-topright: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content{
+    -moz-border-radius-topleft: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content .blog-index a[rel="full-article"]{
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+
   body > nav {
     -moz-border-radius: 0.4em;
     -webkit-border-radius: 0.4em;
