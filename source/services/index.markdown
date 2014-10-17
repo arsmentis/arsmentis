@@ -6,15 +6,27 @@ sharing: false
 footer: true
 ---
 
-Praesent aliquet sit amet dolor sollicitudin hendrerit. Integer gravida mattis porttitor. Etiam in cursus quam. Etiam et metus nunc. Sed tincidunt, dolor et tincidunt sodales, lorem risus consequat purus, sit amet pellentesque magna quam quis libero. Nullam odio odio, auctor a metus sed, lobortis varius sapien.
+In essence, if you've got an idea that you think a computer can handle, I can generally make it happen or advise you on how to make it happen. On this page, you can find a very general overview of the services I provide and some of my capabilities. If I seem like the man for your job, please feel free to [contact me](http://arsmentis.com/contact) to learn more about what I can do for you.
 
-- Service 1
-- Service 2
-- Service 3
-- Service 4
-- Service 5
-- Service 6
-- Service 7
-- Service 8
-- Service 9
-- Service 10
+Custom Software
+---------------
+
+- Consulting: I can help you turn your initial ideas into a viable solution
+- Development: In most cases, I can take your solution and turn it into software
+- Support: I stand by my software; If a bug is found in the program that is determined to be my fault, I fix it for free
+
+IT Solutions
+------------
+
+- Consulting: Need help configuring servers or setting up office networks? I may be able to help
+
+Capabilities
+------------
+
+- Mock-ups & Design Specifications
+- Web & Mobile App Development
+- Cross-platform Development
+- Automated Data Transformation & Conversion
+- Python, Javascript, PHP, HTML, CSS, and many other languages
+- Server Configuration (primarily Linux)
+- Network Configuration
