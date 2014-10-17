@@ -12,6 +12,9 @@ body > header {
       color: $title_color;
       text-decoration: none;
     }
+    @media only screen and (max-width: 950px) {
+      margin-left: 7.5%;
+    }
   }
   div{
     float: left;
