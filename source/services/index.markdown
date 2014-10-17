@@ -6,7 +6,7 @@ sharing: false
 footer: true
 ---
 
-In essence, if you've got an idea that you think a computer can handle, I can generally make it happen or advise you on how to make it happen. On this page, you can find a very general overview of the services I provide and some of my capabilities. If I seem like the man for your job, please feel free to [contact me](http://arsmentis.com/contact) to learn more about what I can do for you.
+In essence, if you've got an idea that you think a computer can handle, I can generally make it happen or advise you on how to make it happen. On this page, you can find a general overview of the services I provide and some of my capabilities.
 
 Custom Software
 ---------------
