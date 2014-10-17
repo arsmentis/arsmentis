@@ -6,7 +6,7 @@ sharing: false
 footer: true
 ---
 
-If you’ve got an idea and you’re interested in working with me, feel free to contact me and we can meet and discuss your needs.
+If you’ve got an idea and you’re interested in working with me, feel free to contact me and we can meet to discuss your needs.
 
 I’m also available for consultation, so please feel free to contact me with questions. Together, we can determine how to make technology work for you.
 
