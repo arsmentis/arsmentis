@@ -226,16 +226,3 @@ body.sidebar-footer {
     margin-bottom: 0px;
   }
 }
-
-@media only screen and (max-width: 315px) {
-  body > nav { 
-    padding: 0;
-    height: 0;
-    visibility: hidden;
-  }
-  ul.main-navigation {
-    width: 98%;
-    margin-left: 0px;
-    margin-bottom: 0px;
-  }
-}
