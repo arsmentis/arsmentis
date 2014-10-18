@@ -35,6 +35,7 @@ $nav-border-right: lighten($nav-bg, 7) !default;
 
 /* Navigation Link Colors */
 $nav-link-color: #fff !default;
+$nav-link-color-2: desaturate(darken($nav-link-color, 5), 15) !default;
 $nav-link-color-hover: desaturate(darken($nav-link-color, 15), 15) !default;
 $nav-link-color-visited: $nav-link-color;
 $nav-link-color-active: $nav-link-color;
@@ -69,11 +70,11 @@ a {
   @include link-colors($link-color, $hover: $link-color-hover, $focus: $link-color-hover, $visited: $link-color-visited, $active: $link-color-active);
 }
 a.nav-link {
-  @include link-colors($nav-link-color, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
+  @include link-colors($nav-link-color-2, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
 }
 img {
-  width:100%;
-  max-width:400px;
+  width:97%;
+  max-width:350px;
 }
 aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
@@ -88,6 +89,7 @@ html {
 body {
   #main {
     background: $main-bg;
+    width: 85%;
   }
   #content{
     background: $content-bg;
@@ -108,10 +110,65 @@ body {
   body > header h2 { padding-left: 3px; }
 
   body > footer { margin-bottom: 3em; }
+
+  body > nav {
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    border-radius:0.4em;
+    margin-bottom: 0;
+  }
+
+  #main{
+    -moz-border-radius-topleft: 0.4em;
+    -moz-border-radius-topright: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content{
+    -moz-border-radius-topleft: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content .blog-index a[rel="full-article"]{
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+  }
 }
 
 @media only screen and (min-width: 1040px) {
  
+  body > nav {
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    border-radius:0.4em;
+    margin-bottom: 0;
+  }
+
+  #main{
+    -moz-border-radius-topleft: 0.4em;
+    -moz-border-radius-topright: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content{
+    -moz-border-radius-topleft: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
+  }
+
+  #content .blog-index a[rel="full-article"]{
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+
   body > nav {
     -moz-border-radius: 0.4em;
     -webkit-border-radius: 0.4em;

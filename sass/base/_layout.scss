@@ -1,4 +1,4 @@
-$max-width: 800px !default;
+$max-width: 940px !default;
 
 // Padding used for layout margins
 $pad-min: 18px !default;
@@ -91,17 +91,20 @@ body {
   > header ul {
     list-style-type: none;
     float: right;
-    margin-top: 1.75em;
-    width: 55%;
-    margin-right: 0.5em;
-    font-family: "Times New Roman", Times, serif;
+    margin-top: 1.1em;
+    width: 45%;
+    font-family: 'Average', serif;
+    font-size: .99em;
+  }
+  > header li a:first-of-type {
+    text-align: center;
   }
   > header li a {
     float: left;
     width: 25%;
     text-align: right;
     text-decoration: none;
-    text-transform: uppercase;
+    font-variant: small-caps;
   }
 }
 
@@ -212,5 +215,14 @@ body.sidebar-footer {
     float: left;
     width: 100%;
     margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  body #main { width: 100%; }
+  ul.main-navigation {
+    width: 98%;
+    margin-left: 0px;
+    margin-bottom: 0px;
   }
 }
