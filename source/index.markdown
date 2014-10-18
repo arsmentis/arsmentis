@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title:
 comments: false
 sharing: false
 footer: true
