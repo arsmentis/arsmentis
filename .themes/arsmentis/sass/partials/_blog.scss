@@ -6,7 +6,7 @@ article {
     margin-bottom: 1em;
     font-family: 'Open Sans', sans-serif;
   }
-  ul li { 
+  ul li {
     font-family: 'Open Sans', sans-serif;
     margin-left: 1em;
   }
@@ -19,6 +19,7 @@ article {
     h1 {
       margin: 0;
       font-family: 'Average', serif;
+      font-size: 2em;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
     }
@@ -40,8 +41,8 @@ article {
   }
   h2 {
     padding-top: 0.8em;
-    background: $img-border top left repeat-x;
     font-family: 'Average', serif;
+    font-size: 1.3em;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
@@ -131,7 +132,7 @@ article + article {
   article { padding-top: 2em; }
   article header { background: none; padding-bottom: 0; }
   article h1 {
-    font-size: 1.8em;
+    font-size: 2em;
     a { color: #555555; &:hover { text-decoration:none } }
   }
   a[rel=full-article] {
@@ -186,7 +187,7 @@ article {
     margin-bottom: 1em;
     font-family: 'Open Sans', sans-serif;
   }
-  ul li { 
+  ul li {
     font-family: 'Open Sans', sans-serif;
     margin-left: 1em;
   }
@@ -198,7 +199,8 @@ article {
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
-      font-family: serif;
+      font-family: 'Average', serif;
+      font-size: 2em;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
     }
@@ -220,8 +222,8 @@ article {
   }
   h2 {
     padding-top: 0.8em;
-    background: $img-border top left repeat-x;
-    font-family: serif;
+    font-family: 'Average', serif;
+    font-size: 1.3em;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
@@ -311,7 +313,7 @@ article + article {
   article { padding-top: 2em; }
   article header { background: none; padding-bottom: 0; }
   article h1 {
-    font-size: 1.8em;
+    font-size: 2em;
     a { color: #555555; &:hover { text-decoration:none } }
   }
   a[rel=full-article] {
