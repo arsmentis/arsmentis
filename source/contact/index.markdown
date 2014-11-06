@@ -10,10 +10,10 @@ If you’ve got an idea and you’re interested in working with me, feel free to
 
 I’m also available for consultation, so please feel free to contact me with questions. Together, we can determine how to make technology work for you.
 
-517.325.3759
-
-james@arsmentis.com
+James Kruth | james@arsmentis.com
 
 Ars Mentis, LLC    
 5208 W Saginaw HWY #80421    
 Lansing MI 48908
+
+517.325.3759
