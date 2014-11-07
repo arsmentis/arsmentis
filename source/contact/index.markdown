@@ -12,8 +12,7 @@ I’m also available for consultation, so please feel free to contact me with qu
 
 ###James Kruth | james@arsmentis.com###
 
-517.325.3759
-
+517.325.3759    
 Ars Mentis, LLC    
 5208 W Saginaw HWY #80421    
 Lansing MI 48908
