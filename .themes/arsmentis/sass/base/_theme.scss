@@ -76,6 +76,12 @@ img {
   width:97%;
   max-width:350px;
 }
+article img.left {
+  width: 20%;
+  clear: left;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
 aside.sidebar a {
   @include link-colors($sidebar-link-color, $hover: $sidebar-link-color-hover, $focus: $sidebar-link-color-hover, $active: $sidebar-link-color-active);
 }
