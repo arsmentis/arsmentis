@@ -47,6 +47,8 @@ Habla, LLC - Olark
 
 Olark is a live chat service for businesses looking to integrate online chat service into their customer service options. Olark contacted me to build a custom Pidgin installer for Windows based on the default nullsoft installer.
 
+{% img left /images/rapidgreenit.png 150 150 Rapid Green IT Logo %}
+
 Rapid Green IT - Linux Server Administration
 --------------------------------------------
 
