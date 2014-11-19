@@ -120,7 +120,17 @@ article {
       @extend .separator;
     }
   }
-
+}
+article .contact {
+  width: 50%;
+  float: right;
+  margin-bottom: 3em;
+}
+article label {
+  margin-right:0.5em;
+}
+article .info {
+  width: 81%;
 }
 article + article {
   .blog-index & {
