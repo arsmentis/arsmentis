@@ -18,7 +18,7 @@ article {
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
-      font-family: 'Average', serif;
+      font-family: 'Open Sans', sans-serif;
       font-size: 2em;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
@@ -41,7 +41,7 @@ article {
   }
   h2 {
     padding-top: 0.8em;
-    font-family: 'Average', serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.3em;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
@@ -199,7 +199,7 @@ article {
     background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
-      font-family: 'Average', serif;
+      font-family: 'Open Sans', sans-serif;
       font-size: 2em;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
@@ -222,7 +222,7 @@ article {
   }
   h2 {
     padding-top: 0.8em;
-    font-family: 'Average', serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.3em;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
