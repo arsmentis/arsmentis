@@ -120,7 +120,19 @@ article {
       @extend .separator;
     }
   }
-
+}
+article form {
+  float: right;
+}
+article .name {
+  width: 84.65%;
+}
+article .mail {
+  width: 84.25%;
+}
+article .submit {
+  float: right;
+  margin-bottom: 3em;
 }
 article + article {
   .blog-index & {
