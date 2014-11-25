@@ -10,65 +10,56 @@ I run my business on the principle that every problem has a solution, so I work 
 
 Some clients I've worked with over the years:
 
-{% img left /images/appstudio.png 150 150 AppStudio Logo %}
+[{% img left /images/appstudio.png 150 150 AppStudio Logo %}](https://www.nsbasic.com/)
 
-NS Basic Corporation - AppStudio
+[NS Basic Corporation - AppStudio](https://www.nsbasic.com/)
 --------------------------------
 
-[AppStudio](https://www.nsbasic.com/) is an IDE for creating mobile web applications. I've been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.
+AppStudio is an IDE for creating mobile web applications. I've been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.
 
 <div style="clear: both;"></div>
 
-{% img left /images/animallaw.png 150 150 150 150 MSU Animal Law Logo %}
+[{% img left /images/animallaw.png 150 150 150 150 MSU Animal Law Logo %}](http://animallaw.info)
 
-MSU College of Law - AnimalLaw.info Data Transfer
+[MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
 -------------------------------------------------
 
-I transitioned Michigan State University's [Animal Law repository](http://animallaw.info), the largest repository of its kind, from a proprietary CMS to drupal. My job was specifically hosting and configuring drupal as well as managing the migration of data from the custom CMS to drupal.
+I transitioned Michigan State University's Animal Law repository, the largest repository of its kind, from a proprietary CMS to drupal. My job was specifically hosting and configuring drupal as well as managing the migration of data from the custom CMS to drupal.
 
 <div style="clear: both;"></div>
 
-{% img left /images/thoughtback.png 150 150 150 150 Thoughtback Logo %}
+[{% img left /images/thoughtback.png 150 150 150 150 Thoughtback Logo %}](https://thoughtback.com/)
 
-Sharp Up, LLC - Thoughtback App
+[Sharp Up, LLC - Thoughtback App](https://thoughtback.com/)
 ----------------------------------------------
 
-[Thoughtback](https://thoughtback.com/) is a Web & Mobile app that allows users to save and organize their thoughts and ideas. My duties during the early development of the application included website and API development in PHP. Recently, I created Thoughtback's Android app.
+Thoughtback is a Web & Mobile app that allows users to save and organize their thoughts and ideas. My duties during the early development of the application included website and API development in PHP. Recently, I created Thoughtback's Android app.
 
 <div style="clear: both;"></div>
 
-{% img left /images/olivet.png 150 150 Olivet College Logo %}
+[{% img left /images/olivet.png 150 150 Olivet College Logo %}](http://www.olivetcollege.edu/)
 
-Olivet College - IT Consulting & Adjunct Professor
+[Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
 --------------------------------------------------
 
-Initially, I helped [Olivet College](http://www.olivetcollege.edu/) with Linux Server/Workstation Management and Configuration, and general IT consulting.
+Initially, I helped Olivet College with Linux Server/Workstation Management and Configuration, and general IT consulting.
 
 In addition to my IT services, I also work as an Adjunct Professor for Olivet College's Computer Science Department, where I teach Computer Science II, Relational Database Systems, Computer Networking, and Computer Organization & Assembly Language.
 
 <div style="clear: both;"></div>
 
-{% img left /images/olark.png 150 150 Olark Logo %}
+[{% img left /images/olark.png 150 150 Olark Logo %}](https://www.olark.com/)
 
-Habla, LLC - Olark
+[Habla, LLC - Olark](https://www.olark.com/)
 ------------------
 
-Olark is a live chat service for businesses looking to integrate online chat service into their customer service options. Olark contacted me to build a custom Pidgin installer for Windows based on the default nullsoft installer.
+Olark helps businesses integrate online chatting capabilities into their websites. Olark contacted me to build a custom [Pidgin](https://www.pidgin.im/) installer for Windows based on the default [Nullsoft](http://nsis.sourceforge.net/Main_Page) installer.
 
 <div style="clear: both;"></div>
 
-{% img left /images/rapidgreenit.png 150 150 Rapid Green IT Logo %}
+[{% img left /images/alliant.png 150 150 Aliant Logo %}](http://allianthealthcare.com/)
 
-Rapid Green IT - Linux Server Administration
---------------------------------------------
-
-I worked with the owner of [Rapid Green IT](http://www.rapidgreenit.com/) to setup a Linux/Samba file server for his business.
-
-<div style="clear: both;"></div>
-
-{% img left /images/alliant.png 150 150 Aliant Logo %}
-
-Alliant Healthcare Products - Software Development
+[Alliant Healthcare Products - Software Development](http://allianthealthcare.com/)
 --------------------------------------------------
 
-I created a PHP opportunity tracking application for [Alliant Healthcare Products](http://allianthealthcare.com/) which enables the company to track leads.
+I created a PHP opportunity tracking application for Alliant Healthcare Products which enables the company to track leads.
