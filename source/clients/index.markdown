@@ -10,7 +10,7 @@ I run my business on the principle that every problem has a solution, so I work 
 
 Some clients I've worked with over the years:
 
-[{% img left /images/appstudio.png 150 150 AppStudio Logo %}](https://www.nsbasic.com/)
+[{% img left /images/appstudio.png 150 150 'AppStudio' 'AppStudio' %}](https://www.nsbasic.com/)
 
 [NS Basic Corporation - AppStudio](https://www.nsbasic.com/)
 --------------------------------
@@ -19,7 +19,7 @@ AppStudio is an IDE for creating mobile web applications. I've been involved wit
 
 <div style="clear: both;"></div>
 
-[{% img left /images/animallaw.png 150 150 150 150 MSU Animal Law Logo %}](http://animallaw.info)
+[{% img left /images/animallaw.png 150 150 150 150 'MSU Animal Law' 'MSU Animal Law' %}](http://animallaw.info)
 
 [MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
 -------------------------------------------------
@@ -28,7 +28,7 @@ I transitioned Michigan State University's Animal Law repository, the largest re
 
 <div style="clear: both;"></div>
 
-[{% img left /images/thoughtback.png 150 150 150 150 Thoughtback Logo %}](https://thoughtback.com/)
+[{% img left /images/thoughtback.png 150 150 150 150 'Thoughtback' 'Thoughtback' %}](https://thoughtback.com/)
 
 [Sharp Up, LLC - Thoughtback App](https://thoughtback.com/)
 ----------------------------------------------
@@ -37,7 +37,7 @@ Thoughtback is a Web & Mobile app that allows users to save and organize their t
 
 <div style="clear: both;"></div>
 
-[{% img left /images/olivet.png 150 150 Olivet College Logo %}](http://www.olivetcollege.edu/)
+[{% img left /images/olivet.png 150 150 'Olivet College' 'Olivet College' %}](http://www.olivetcollege.edu/)
 
 [Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
 --------------------------------------------------
@@ -48,7 +48,7 @@ In addition to my IT services, I also work as an Adjunct Professor for Olivet Co
 
 <div style="clear: both;"></div>
 
-[{% img left /images/olark.png 150 150 Olark Logo %}](https://www.olark.com/)
+[{% img left /images/olark.png 150 150 'Olark' 'Olark' %}](https://www.olark.com/)
 
 [Habla, LLC - Olark](https://www.olark.com/)
 ------------------
@@ -57,7 +57,7 @@ Olark helps businesses integrate online chatting capabilities into their website
 
 <div style="clear: both;"></div>
 
-[{% img left /images/alliant.png 150 150 Aliant Logo %}](http://allianthealthcare.com/)
+[{% img left /images/alliant.png 150 150 'Aliant' 'Aliant Healthcare Products' %}](http://allianthealthcare.com/)
 
 [Alliant Healthcare Products - Software Development](http://allianthealthcare.com/)
 --------------------------------------------------
