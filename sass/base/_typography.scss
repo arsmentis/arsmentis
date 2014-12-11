@@ -56,7 +56,6 @@ h1 span{
 
 #{headings()}{
   @extend .heading;
-  text-rendering: optimizelegibility;
   margin-bottom: 1em;
   font-weight: bold;
 }
