@@ -72,10 +72,6 @@ a {
 a.nav-link {
   @include link-colors($nav-link-color-2, $hover: $nav-link-color-hover, $focus: $nav-link-color-hover, $visited: $nav-link-color-visited, $active: $nav-link-color-active);
 }
-img {
-  width:97%;
-  max-width:350px;
-}
 article img.left {
   width: 150px;
   height: 150px;
