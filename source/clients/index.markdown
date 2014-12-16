@@ -19,7 +19,7 @@ AppStudio is an IDE for creating mobile web applications. I've been involved wit
 
 <div style="clear: both;"></div>
 
-[{% img left /images/animallaw.png 150 150 150 150 'MSU Animal Law' 'MSU Animal Law' %}](http://animallaw.info)
+[{% img left /images/animallaw.png 150 150 'MSU Animal Law' 'MSU Animal Law' %}](http://animallaw.info)
 
 [MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
 -------------------------------------------------
@@ -28,7 +28,7 @@ I transitioned Michigan State University's Animal Law repository, the largest re
 
 <div style="clear: both;"></div>
 
-[{% img left /images/thoughtback.png 150 150 150 150 'Thoughtback' 'Thoughtback' %}](https://thoughtback.com/)
+[{% img left /images/thoughtback.png 150 150 'Thoughtback' 'Thoughtback' %}](https://thoughtback.com/)
 
 [Sharp Up, LLC - Thoughtback App](https://thoughtback.com/)
 ----------------------------------------------
