@@ -1,21 +1,24 @@
 ---
 layout: page
 title: Clients
+description: From big businesses to small, I help my clients make technology work for them. It’s my job to find the best solution for your problem.
 comments: false
 sharing: false
 footer: true
 ---
 
-I run my business on the principle that every problem has a solution, so I work with any kind of client - big for-profit businesses, small non-profit organizations, and everything in between. If you have a good idea and the money and passion to support it, I can work with you to get that idea off the ground.
+Every problem has a solution, and every solution is different. It’s my job to figure out what’s best for you. 
 
-Some clients I've worked with over the years:
+From big businesses to independent entrepreneurs, I’ve helped a wide range of clients make technology work for them.
+
+Some of my past clients include:
 
 [{% img left /images/appstudio.png 150 150 'AppStudio' 'AppStudio' %}](https://www.nsbasic.com/)
 
 [NS Basic Corporation - AppStudio](https://www.nsbasic.com/)
 --------------------------------
 
-AppStudio is an IDE for creating mobile web applications. I've been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.
+AppStudio is an integrated development environment for the creation of mobile web applications. I've been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.
 
 <div style="clear: both;"></div>
 
@@ -24,7 +27,7 @@ AppStudio is an IDE for creating mobile web applications. I've been involved wit
 [MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
 -------------------------------------------------
 
-I transitioned Michigan State University's Animal Law repository, the largest repository of its kind, from a proprietary CMS to drupal. My job was specifically hosting and configuring drupal as well as managing the migration of data from the custom CMS to drupal.
+I transitioned Michigan State University's Animal Law repository, the largest repository of its kind, from a proprietary CMS to Drupal. My job was hosting and configuring Drupal as well as managing the migration of data from the custom CMS to Drupal.
 
 <div style="clear: both;"></div>
 
@@ -33,7 +36,7 @@ I transitioned Michigan State University's Animal Law repository, the largest re
 [Sharp Up, LLC - Thoughtback App](https://thoughtback.com/)
 ----------------------------------------------
 
-Thoughtback is a Web & Mobile app that allows users to save and organize their thoughts and ideas. My duties during the early development of the application included website and API development in PHP. Recently, I created Thoughtback's Android app.
+Thoughtback is a web and mobile productivity app that has been pre-installed on thousands of Android devices. I created Thoughtback’s Android app and was an early member of the development team for the web app.
 
 <div style="clear: both;"></div>
 
@@ -42,9 +45,9 @@ Thoughtback is a Web & Mobile app that allows users to save and organize their t
 [Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
 --------------------------------------------------
 
-Initially, I helped Olivet College with Linux Server/Workstation Management and Configuration, and general IT consulting.
+I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab.
 
-In addition to my IT services, I also work as an Adjunct Professor for Olivet College's Computer Science Department, where I teach Computer Science II, Relational Database Systems, Computer Networking, and Computer Organization & Assembly Language.
+In addition to my IT services, I’m also an adjunct professor for Olivet College's Computer Science department. My current and past courses include Computer Science II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
 
 <div style="clear: both;"></div>
 
@@ -62,4 +65,4 @@ Olark helps businesses integrate online chatting capabilities into their website
 [Alliant Healthcare Products - Software Development](http://allianthealthcare.com/)
 --------------------------------------------------
 
-I created a PHP opportunity tracking application for Alliant Healthcare Products which enables the company to track leads.
+I created a PHP tracking application for Alliant Healthcare Products which enabled the company to track sales leads.

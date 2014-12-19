@@ -1,18 +1,30 @@
 ---
 layout: page
 title: About
+description: I started Ars Mentis on the principle that technology should enrich lives, not complicate them. Let me help you use technology to simplify your endeavors.
 comments: false
 sharing: false
 footer: true
 ---
 
-In 2009, I founded Ars Mentis, because I believe that technology exists to enhance our lives. Through my company, I’m doing my part to achieve that goal. My company runs on the principle that all problems have a solution, and I make it my goal to find the best possible solution for my clients. Keeping open communication is extremely important to me, so I can develop a deep understanding of my client's needs.
+About Ars Mentis
+----------------
 
-Since founding Ars Mentis, I've grown my business each year. By 2012, Ars Mentis had grown large enough that I was able to pursue software consulting full time. I continue to build my client base and expand my business yearly. I've been a driving force behind NSB AppStudio (NSBasic Corp), worked for Michigan State University's College of Law and  developed solutions for many other clients.
+Technology should enrich lives, not complicate them.
 
-About Me
---------
+I started Ars Mentis in 2009, because I wanted to help others use technology to streamline their professional endeavors. In the years since, the company and client list have both grown and become more varied. From designing a database for one of the world’s largest law repositories to creating an online employment application for for a family-owned cleaning business, I’ve found fixes for a broad range of clients. My lines of communication are wide open, and my quality standards are high. I want things done right.
 
-I’ve been programming since the early 1990s and began my first part-time IT consulting business in 1995. My professional career began in 1997, and I continued working primarily in IT until 2000, when I began writing software professionally. 
+All problems have solutions. Let me solve yours.
 
-Since 2001, I’ve concentrated on writing custom software, and I specialize in web applications, mobile applications, and automated data transformation and conversion.
+About James Kruth, Founder
+--------------------------
+
+I was that geek in your high school.
+
+The one who started programming when he was 8, started building computers at 13, then started his own IT consulting business at 15. Playing guitar in a garage band helped offset things a little, but there was still no denying my geek status.
+
+Geek or not, I didn’t care. I loved computers then, I love them now, and I love helping others find ways to make technology work for them. Before starting Ars Mentis, I worked for companies both large and small, public and private.
+
+I’ve designed custom software at all levels and specialize in web and mobile applications as well as data transformation and conversion. Basically, I like making stuff work, and I like showing other people how to do the same.
+
+I still play guitar. Just to even things out.

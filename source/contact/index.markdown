@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Contact
+description: Got an idea? Need help hashing it out? No problem! Contact me today to get started.
 comments: false
 sharing: false
 footer: true
 ---
 
-If you’ve got an idea and you’re interested in working with me, feel free to contact me and we can meet to discuss your needs.
+Got an idea? Need help hashing it out? No problem. 
 
-I’m also available for consultation, so please feel free to contact me with questions. Together, we can determine how to make technology work for you.
+I’m currently taking new clients, so feel free to contact me. Together, we’ll figure out the best way to get your idea off the ground.
 
 **James Kruth | james@arsmentis.com **
 
