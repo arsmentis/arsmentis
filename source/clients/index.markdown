@@ -20,6 +20,17 @@ AppStudio is an integrated development environment for the creation of mobile we
 
 <div style="clear: both;"></div>
 
+[{% img left /images/olivet.png 150 150 'Olivet College' 'Olivet College' %}](http://www.olivetcollege.edu/)
+
+[Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
+--------------------------------------------------
+
+I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab.
+
+In addition to my IT services, I’m also currently an adjunct professor for Olivet College's Computer Science department. My past and present courses include Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
+
+<div style="clear: both;"></div>
+
 [{% img left /images/animallaw.png 150 150 'MSU Animal Law' 'MSU Animal Law' %}](http://animallaw.info)
 
 [MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
@@ -35,17 +46,6 @@ I transitioned Michigan State University's Animal Law repository, the largest of
 ----------------------------------------------
 
 Thoughtback is a web and mobile productivity app that has been pre-installed on thousands of Android devices. I created Thoughtback’s Android app and was an early member of the development team for the web app.
-
-<div style="clear: both;"></div>
-
-[{% img left /images/olivet.png 150 150 'Olivet College' 'Olivet College' %}](http://www.olivetcollege.edu/)
-
-[Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
---------------------------------------------------
-
-I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab.
-
-In addition to my IT services, I’m also currently an adjunct professor for Olivet College's Computer Science department. My past and present courses include Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
 
 <div style="clear: both;"></div>
 

@@ -9,7 +9,7 @@ footer: true
 
 <h1 class="homeh1">All problems have solutions. Let me solve yours.</h1>
 
-Welcome to Ars Mentis. I create custom software solutions for clients of any size. From concept to completion, we'll work together each step of the way to make your idea a reality.
+Welcome to Ars Mentis. I create custom software solutions for clients of any size. From concept to completion, we'll work together to make your idea a reality.
 
 ##Why choose Ars Mentis?##
 
