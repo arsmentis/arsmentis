@@ -10,7 +10,7 @@ footer: true
 About Ars Mentis
 ----------------
 
-I started Ars Mentis in 2009 with the idea that technology should enrich lives, not complicate them. Since then, the company and client list have both grown. From designing a database for one of the world’s largest law repositories to creating an online employment application for for a family-owned cleaning business, I’ve created solutions for a broad range of clients. Open communication and high standards are integral to my business philosophy.
+I started Ars Mentis in 2009 with the idea that technology should enrich lives, not complicate them. Since then, the company and client list have both grown. From designing a database for one of the world’s largest law repositories to creating an online employment application for a family-owned cleaning business, I’ve created solutions for a broad range of clients. Open communication and high standards are integral to my business philosophy.
 
 All problems have solutions. Let me solve yours.
 
