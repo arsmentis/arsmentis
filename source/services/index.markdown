@@ -9,14 +9,14 @@ footer: true
 
 Custom Software:
 
-* Consulting - I can help you turn your initial idea into a viable solution
-* Development - I can turn your solution into software
-* Support - I stand by my software; if a bug is determined to be my fault, I’ll fix it for free
+* Consulting - We'll work together to turn your idea into a viable solution
+* Development - Once we've found a solution, I can make it a reality
+* Support - I stand by my software; if a bug is my fault, I’ll fix it for free
 
 IT Solutions:
 
-* Consulting - I can help configure servers and set up office networks.
-* Hosting - I can securely host your application or content.
+* Consulting - I can configure servers and set up office networks
+* Hosting - I'll securely host your application or content
 
 Capabilities:
 

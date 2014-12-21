@@ -1,17 +1,15 @@
 ---
 layout: page
 title: Clients
-description: From big businesses to small, I help my clients make technology work for them. It’s my job to find the best solution for your problem.
+description: Every problem has a solution, and every solution is different. It’s my job to figure out what’s best for you.
 comments: false
 sharing: false
 footer: true
 ---
 
-Every problem has a solution, and every solution is different. It’s my job to figure out what’s best for you. 
+Every problem has a solution, and every solution is different. It’s my job to figure out what’s best for you.
 
-From big businesses to independent entrepreneurs, I’ve helped a wide range of clients make technology work for them.
-
-Some of my past clients include:
+From big businesses to independent entrepreneurs, I’ve helped a wide range of clients, including:
 
 [{% img left /images/appstudio.png 150 150 'AppStudio' 'AppStudio' %}](https://www.nsbasic.com/)
 
@@ -27,7 +25,7 @@ AppStudio is an integrated development environment for the creation of mobile we
 [MSU College of Law - AnimalLaw.info Data Transfer](http://animallaw.info)
 -------------------------------------------------
 
-I transitioned Michigan State University's Animal Law repository, the largest repository of its kind, from a proprietary CMS to Drupal. My job was hosting and configuring Drupal as well as managing the migration of data from the custom CMS to Drupal.
+I transitioned Michigan State University's Animal Law repository, the largest of its kind, from a proprietary CMS to Drupal. My job was hosting and configuring Drupal as well as managing the migration of data. The proprietary CMS had to be completely reversed engineered, as there was no documentation.
 
 <div style="clear: both;"></div>
 
@@ -47,7 +45,7 @@ Thoughtback is a web and mobile productivity app that has been pre-installed on 
 
 I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab.
 
-In addition to my IT services, I’m also an adjunct professor for Olivet College's Computer Science department. My current and past courses include Computer Science II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
+In addition to my IT services, I’m also currently an adjunct professor for Olivet College's Computer Science department. My past and present courses include Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
 
 <div style="clear: both;"></div>
 
@@ -65,4 +63,4 @@ Olark helps businesses integrate online chatting capabilities into their website
 [Alliant Healthcare Products - Software Development](http://allianthealthcare.com/)
 --------------------------------------------------
 
-I created a PHP tracking application for Alliant Healthcare Products which enabled the company to track sales leads.
+I created a LAMP application for Alliant Healthcare Products which enabled the company to track sales leads.
