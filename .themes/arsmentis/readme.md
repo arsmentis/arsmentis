@@ -1,41 +1,12 @@
-# DarkStripes Octopress theme
+# Arsmentis Octopress theme
 
-```
-This theme is no longer developed or maintained. I switched to Jekyll and don't have enough spare time 
-to maintain this theme.
-
-Fell free to clone it and keep it going.
-```
-
-
-
-This is an Octopress theme based on a "classic" theme customization found at http://melandri.net
-
-Please read http://melandri.net/2012/07/23/darkstripes-octopress-theme-released/ and http://melandri.net/2012/02/14/octopress-theme-customization/ for more details
-
-If you have problems or requests for the theme, please create an Issue here on GitHub. 
-
-This theme has not been tested with Octopress 2.1.
-
-If you use this theme, take two minutes and add it to this page: https://github.com/amelandri/darkstripes/wiki
-
-## Installation instructions
-
-Open your terminal and type
-
-	$ cd octopress
-	$ git clone git://github.com/amelandri/darkstripes.git .themes/darkstripes
-	$ rake install['darkstripes']
-	$ rake generate
+Based on a modificaiton of [DarkStripes](https://github.com/amelandri/darkstripes).
 
 ## License
 
-This is a copy of the "classic" Octopress theme by Brandon Mathis customized by Alessandro Melandri
-
-This theme uses the League Gothic font (https://github.com/theleagueof/league-gothic) which is published under an Open Font License
-
 (The MIT License)
 
+Copyright @ 2014 Sarah Bruckler & James Kruth
 Copyright © 2012 Alessandro Melandri
 Copyright © 2009-2011 Brandon Mathis
 
