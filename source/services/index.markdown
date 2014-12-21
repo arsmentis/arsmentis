@@ -7,18 +7,21 @@ sharing: false
 footer: true
 ---
 
-Custom Software:
+Custom Software
+---------------
 
 * Consulting - We'll work together to turn your idea into a viable solution
 * Development - Once we've found a solution, I can make it a reality
 * Support - I stand by my software; if a bug is my fault, I’ll fix it for free
 
-IT Solutions:
+IT Solutions
+------------
 
 * Consulting - I can configure servers and set up office networks
 * Hosting - I'll securely host your application or content
 
-Capabilities:
+Capabilities
+------------
 
 * Mock-ups & design specifications
 * Web & mobile app development
