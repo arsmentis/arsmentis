@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 
-<h1 align="center">All problems have solutions. Let me solve yours.</h1>
+<h1 class="homeh1">All problems have solutions. Let me solve yours.</h1>
 
 Welcome to Ars Mentis. I create custom software solutions for clients of any size. From concept to completion, we'll work together each step of the way to make your idea a reality.
 
@@ -17,4 +17,4 @@ Welcome to Ars Mentis. I create custom software solutions for clients of any siz
 * I've worked with a broad range of satisfied [clients]({{ root_url }}/clients).
 * Ars Mentis is an established business. Learn more about [the company]({{ root_url }}/about) and [me, James Kruth]({{ root_url }}/about#james).
 
-<h2 align="center">Want to learn more? Ready to get started? <a href="{{ root_url }}/contact">Contact me now!</a></h2>
+<footer class="homeFooter">Want to learn more? Ready to get started? <a href="{{ root_url }}/contact">Contact me now!</a></footer>
