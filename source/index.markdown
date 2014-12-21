@@ -15,6 +15,6 @@ Welcome to Ars Mentis. I create custom software solutions for clients of any siz
 
 * I offer a variety of [services]({{ root_url }}/services) to meet your technology needs.
 * I've worked with a broad range of satisfied [clients]({{ root_url }}/clients).
-* Ars Mentis is an established business. Learn more about [the company]({{ root_url }}/about) and [me, James Kruth]({{ root_url }}/about).
+* Ars Mentis is an established business. Learn more about [the company]({{ root_url }}/about) and [me, James Kruth]({{ root_url }}/about#james).
 
 <h2 align="center">Want to learn more? Ready to get started? <a href="{{ root_url }}/contact">Contact me now!</a></h2>
