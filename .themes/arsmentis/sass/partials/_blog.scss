@@ -134,18 +134,26 @@ article {
     float: right;
     margin-bottom: 3em;
     background: $side-border top left repeat-y;
-  }
-  form p {
+    width: 50%;
     padding-left: 1.5em;
   }
-  .contact #email {
-    width: 99%;
+  .form-control {
+    width: 100%;
+    margin-bottom: 1em;
   }
-  .contact #submit {
+  .form-group #submit {
     float: right;
+    font-family: 'Open Sans', sans-serif;
   }
-  .contact label {
+  .form-group #hiddenLabel {
     display: none;
+  }
+  .form-group #messageArea {
+    height: 7em;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .form-group #email {
+    font-family: 'Open Sans', sans-serif;
   }
   #getStarted {
     margin-bottom: 2em;

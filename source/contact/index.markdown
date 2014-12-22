@@ -9,10 +9,19 @@ footer: true
 
 <p id="getStarted">Need help with a technology issue? Got an idea that needs hashing out? No problem! Contact me to get started.</p>
 
-<form class="contact">
-  <p><label for="email">Email</label><input type="email" name="email" id="email" placeholder="example@email.com"></p>
-  <p><label for="message">Message</label><textarea name="message" rows="10" cols="50" placeholder="Type your message here."></textarea></p>
-  <p><label for="submit">Submit</label><input type="submit" value="Submit" id="submit"></p>
+<form role="form">
+  <div class="form-group">
+    <label for="InputEmail">Email:</label>
+    <input type="email" class="form-control" id="email" placeholder="example@email.com">
+  </div>
+  <div class="form-group">
+    <label for="MessageTextarea">Message:</label>
+    <textarea class="form-control" id="messageArea" placeholder="Please type your message here."></textarea>
+  </div>
+  <div class="form-group">
+    <label for="SubmitButton" id="hiddenLabel">Submit</label>
+    <input type="submit" value="Submit" id="submit">
+  </div>
 </form>
 
 **James Kruth | james@arsmentis.com **
