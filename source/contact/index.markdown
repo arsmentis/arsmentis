@@ -9,6 +9,12 @@ footer: true
 
 Need help with a technology issue? Got an idea that needs hashing out? No problem! Contact me to get started.
 
+<form class="contact">
+  <p><label for="email">E-mail: </label><input type="email" name="email" id="email" placeholder="example@email.com"></p>
+  <p><textarea name="message" rows="10" cols="50"></textarea></p>
+  <p><input type="submit" value="Submit" id="submit"></p>
+</form>
+
 **James Kruth | james@arsmentis.com **
 
 Phone: 517.325.3759<br>

@@ -187,3 +187,17 @@ article + article {
   text-align: center;
   font-size: 1.3em;
 }
+form {
+  float: right;
+  margin-bottom: 3em;
+  background: $side-border top left repeat-y;
+}
+form p {
+  padding-left: 1em;
+}
+.contact #email {
+  width: 84.25%;
+}
+.contact #submit {
+  float: right;
+}
