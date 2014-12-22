@@ -134,8 +134,11 @@ article {
     float: right;
     margin-bottom: 3em;
     background: $side-border top left repeat-y;
-    width: 50%;
     padding-left: 1.5em;
+    width: 22em;
+  }
+  .form-group {
+    width: 100%;
   }
   .form-control {
     margin-bottom: 1em;
@@ -155,17 +158,17 @@ article {
   .form-group label {
     margin-left: -0.65em;
     font-weight: bold;
-    width: 100%;
   }
   .form-group #messageArea {
-    width: 100%;
+    width: 98.5%;
     height: 7em;
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     margin-top: 0.5em;
+    padding-right: 0.0625em;
   }
   .form-group #email {
-    width: 100%;
+    width: 99%;
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
     margin-top: 0.5em;
