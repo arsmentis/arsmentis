@@ -11,15 +11,14 @@ footer: true
 
 <form role="form">
   <div class="form-group">
-    <label for="InputEmail" id="visibleLabel">Email:</label>
+    <label for="InputEmail">Email:</label>
     <input type="email" class="form-control" id="email" placeholder="example@email.com">
   </div>
   <div class="form-group">
-    <label for="MessageTextarea" id="visibleLabel">Message:</label>
+    <label for="MessageTextarea">Message:</label>
     <textarea class="form-control" id="messageArea" placeholder="Please type your message here."></textarea>
   </div>
   <div class="form-group">
-    <label for="SubmitButton" id="hiddenLabel">Submit</label>
     <input type="submit" value="Submit" id="submit">
   </div>
 </form>
