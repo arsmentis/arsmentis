@@ -123,6 +123,27 @@ article {
       @extend .separator;
     }
   }
+  .homeh1 {
+    text-align: center;
+  }
+  .homeFooter {
+    text-align: center;
+    font-size: 1.3em;
+  }
+  form {
+    float: right;
+    margin-bottom: 3em;
+    background: $side-border top left repeat-y;
+  }
+  form p {
+    padding-left: 1em;
+  }
+  .contact #email {
+    width: 84.25%;
+  }
+  .contact #submit {
+    float: right;
+  }
 }
 article + article {
   .blog-index & {
@@ -180,25 +201,4 @@ article + article {
       &:before, &:after { content: '\2014'; padding: 0 .3em; }
     }
   }
-}
-.homeh1 {
-  text-align: center;
-}
-.homeFooter {
-  text-align: center;
-  font-size: 1.3em;
-}
-form {
-  float: right;
-  margin-bottom: 3em;
-  background: $side-border top left repeat-y;
-}
-form p {
-  padding-left: 1em;
-}
-.contact #email {
-  width: 84.25%;
-}
-.contact #submit {
-  float: right;
 }
