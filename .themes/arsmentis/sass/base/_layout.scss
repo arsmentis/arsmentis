@@ -106,6 +106,9 @@ body {
     text-decoration: none;
     font-variant: small-caps;
   }
+  > header img {
+    max-width: 100%;
+  }
 }
 
 #content {
