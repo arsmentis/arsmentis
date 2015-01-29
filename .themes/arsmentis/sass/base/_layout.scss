@@ -106,8 +106,9 @@ body {
     text-decoration: none;
     font-variant: small-caps;
   }
-  > header img {
+  > header img #logo {
     max-width: 100%;
+    padding-left: 0.175em;
   }
 }
 
