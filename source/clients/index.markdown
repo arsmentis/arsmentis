@@ -20,6 +20,15 @@ AppStudio is an integrated development environment for the creation of mobile we
 
 <div style="clear: both;"></div>
 
+[{% img left /images/demandFood.png 150 150 'DemandFood' 'DemandFood' %}](https://demandfood.com/)
+
+[DemandFood - Mobile API & App Development](https://demandfood.com/)
+--------------------------------
+
+DemandFood is a food delivery service based in Austin, TX. I am creating a cross platform mobile API and app to support DemandFood's delivery service using modern, highly available web technologies.
+
+<div style="clear: both;"></div>
+
 [{% img left /images/olivet.png 150 150 'Olivet College' 'Olivet College' %}](http://www.olivetcollege.edu/)
 
 [Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
@@ -37,6 +46,13 @@ In addition to my IT services, I’m also currently an adjunct professor for Oli
 -------------------------------------------------
 
 I transitioned Michigan State University's Animal Law repository, the largest of its kind, from a proprietary CMS to Drupal. My job was hosting and configuring Drupal as well as managing the migration of data. The proprietary CMS had to be completely reversed engineered, as there was no documentation.
+
+<div style="clear: both;"></div>
+
+[MSU College of Education - Teaching & Learning](http://www.msu.edu)
+-------------------------------------------------
+
+I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.
 
 <div style="clear: both;"></div>
 
