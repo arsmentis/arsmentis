@@ -32,9 +32,7 @@ DemandFood is a food delivery service based in Austin, TX. I am creating a cross
 [Olivet College - IT Consulting & Adjunct Professor](http://www.olivetcollege.edu/)
 --------------------------------------------------
 
-I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab.
-
-In addition to my IT services, I am currently an adjunct professor for Olivet College's Computer Science department. My past and present courses include Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
+I was instrumental in implementing and maintaining Olivet College's experimental Linux-based computer lab. In addition to my IT services, I am currently an adjunct professor for Olivet College's Computer Science department. My past and present courses include Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.
 
 <div style="clear: both;"></div>
 
@@ -47,10 +45,10 @@ I transitioned Michigan State University's Animal Law repository, the largest of
 
 <div style="clear: both;"></div>
 
-{% img left /images/msuTeachLearn.png 150 150 'MSU Teaching & Learning' 'MSU Teaching & Learning' %}
+{% img left /images/msuLearnTeach.png 150 150 'MSU Teaching & Learning' 'MSU Teaching & Learning' %}
 
-MSU College of Education - Teaching & Learning
-----------------------------------------------
+[MSU College of Education - Teaching & Learning](http://#)
+-------------------------------------------------
 
 I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.
 
