@@ -22,6 +22,11 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
   <p>DemandFood is a food delivery service based in Austin, TX. I am creating a cross platform mobile API and app to support DemandFood's delivery service using modern, highly available web technologies.</p>
 </div>
 <div class="client">
+  <a href="https://illinoismansion.org/"><img src="/images/ilmansion.png" alt="Illinois Executive Mansion Association" title="Illinois Executive Mansion Association" class="clientImg"></a>
+  <a href="https://illinoismansion.org/"><h2>Illinois Executive Mansion Association - Custom Website Design & Development</h2></a>
+  <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization responsible for restoring the Illinois Executive Mansion. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using stripe.com.</p>
+</div>
+<div class="client">
   <a href="http://#"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
   <a href="http://#"><h2>MSU College of Education - Teaching & Learning</h2></a>
   <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
