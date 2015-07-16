@@ -24,7 +24,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
 <div class="client">
   <a href="https://illinoismansion.org/"><img src="/images/ilmansion.png" alt="Illinois Executive Mansion Association" title="Illinois Executive Mansion Association" class="clientImg"></a>
   <a href="https://illinoismansion.org/"><h2>Illinois Executive Mansion Association - Custom Website Design & Development</h2></a>
-  <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization responsible for restoring the Illinois Executive Mansion. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using stripe.com.</p>
+  <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization responsible for restoring the Illinois Executive Mansion. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
 </div>
 <div class="client">
   <a href="http://#"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
