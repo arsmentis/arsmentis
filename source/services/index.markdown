@@ -28,7 +28,7 @@ Capabilities
 * Web & mobile app development using modern frameworks like [AngularJS](https://angularjs.org/), [ExpressJS](http://expressjs.com/), [Flask](http://flask.pocoo.org/), and [Bootstrap](http://getbootstrap.com/)
 * Cross-platform development
 * Automated data transformation & conversion
-* [Python](https://www.python.org/), JavaScript/[NodeJS](https://nodejs.org/), [PHP](https://php.net/), [HTML](http://www.w3.org/html/logo/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html) and many other languages
+* [Python](https://www.python.org/), [JavaScript](http://www.ecmascript.org/)/[NodeJS](https://nodejs.org/), [PHP](https://php.net/), [HTML](http://www.w3.org/html/logo/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html) and many other languages
 * [MySQL](https://www.mysql.com/), [PostgreSQL](http://www.postgresql.org/), [MongoDB](https://www.mongodb.org/), and many other databases
 * Server configuration (primarily Linux) and management
 * Network configuration
