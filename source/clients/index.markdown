@@ -13,7 +13,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
 
 <div class="client">
   <a href="https://www.nsbasic.com/"><img src="/images/appstudio.png" alt="AppStudio" title="AppStudio" class="clientImg"></a>
-  <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
+  <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio IDE Development</h2></a>
   <p>AppStudio is an integrated development environment for the creation of mobile web applications. I've been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
 </div>
 <div class="client">
@@ -27,8 +27,8 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
   <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization responsible for restoring the Illinois Executive Mansion. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
 </div>
 <div class="client">
-  <a href="http://#"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
-  <a href="http://#"><h2>MSU College of Education - Teaching & Learning</h2></a>
+  <a href="http://education.msu.edu/irtl/"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
+  <a href="http://education.msu.edu/irtl/"><h2>MSU College of Education - Network Consulting & Repair</h2></a>
   <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
 </div>
 <div class="client">
@@ -43,12 +43,12 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
 </div>
 <div class="client">
   <a href="https://thoughtback.com/"><img src="/images/thoughtback.png" alt="Thoughtback" title="Thoughtback" class="clientImg"></a>
-  <a href="https://thoughtback.com/"><h2>Sharp Up, LLC - Thoughtback App</h2></a>
+  <a href="https://thoughtback.com/"><h2>Sharp Up, LLC - Mobile App Development</h2></a>
   <p>Thoughtback is a web and mobile productivity app that has been pre-installed on thousands of Android devices. I created Thoughtback’s Android app and was an early member of the development team for the web app.</p>
 </div>
 <div class="client">
   <a href="https://www.olark.com/"><img src="/images/olark.png" alt="Olark" title="Olark" class="clientImg"></a>
-  <a href="https://www.olark.com/"><h2>Habla, LLC - Olark</h2></a>
+  <a href="https://www.olark.com/"><h2>Habla, LLC - Mobile App Development</h2></a>
   <p>Olark helps businesses integrate online chatting capabilities into their websites. Olark contacted me to build a custom [Pidgin](https://www.pidgin.im/) installer for Windows based on the default [Nullsoft](http://nsis.sourceforge.net/Main_Page) installer.</p>
 </div>
 <div class="client">
