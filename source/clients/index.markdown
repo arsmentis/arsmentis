@@ -27,8 +27,8 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
   <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization responsible for restoring the Illinois Executive Mansion. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
 </div>
 <div class="client">
-  <a href="http://education.msu.edu/irtl/"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
-  <a href="http://education.msu.edu/irtl/"><h2>MSU College of Education - Network Consulting & Repair</h2></a>
+  <a href="http://tech.msu.edu/itservices/teaching-learning/"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a>
+  <a href="http://tech.msu.edu/itservices/teaching-learning/"><h2>MSU College of Education - Network Consulting & Repair</h2></a>
   <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
 </div>
 <div class="client">
