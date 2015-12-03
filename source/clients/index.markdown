@@ -13,17 +13,17 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
 
   <table class="clientTableLarge">
     <tr class="clientRow">
-      <td class="imgCell"><a href="https://www.nsbasic.com/"><img src="/images/appstudio.png" alt="AppStudio" title="AppStudio" class="clientImg"></a></td>
-      <td class="clientInfo">
-        <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
-	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
-      </td>
-    </tr>
-    <tr class="clientRow">
       <td class="imgCell"><a href="https://demandfood.com/"><img src="/images/demandFood.png" alt="DemandFood" title="DemandFood" class="clientImg"></a></td>
        <td class="clientInfo">
 	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
         <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
+      </td>
+    </tr>
+    <tr class="clientRow">
+      <td class="imgCell"><a href="https://www.nsbasic.com/"><img src="/images/appstudio.png" alt="AppStudio" title="AppStudio" class="clientImg"></a></td>
+      <td class="clientInfo">
+        <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
+	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -80,14 +80,14 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
   <table class="clientTableSmall">
     <tr class="clientRowSm">
       <td class="clientInfo">
-        <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
-	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
+	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
+        <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
       <td class="clientInfo">
-	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
-        <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
+        <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
+	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
