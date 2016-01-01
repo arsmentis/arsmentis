@@ -216,6 +216,10 @@ body {
     vertical-align: text-top;
     padding-left: 10px;
   }
+  .logo {
+    padding-left: .5em;
+    padding-right: .5em;
+  }
 }
 
 @media only screen and (max-width: 767px) {
@@ -232,7 +236,9 @@ body {
   }
   
   .logo {
-    max-width: 100%;
+    max-width: 95%;
     height: 100%;
+    padding-left: .5em;
+    padding-right: .5em;
   }
 }
