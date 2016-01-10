@@ -44,7 +44,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
       <td class="imgCell"><a href="http://www.olivetcollege.edu/"><img src="/images/olivet.png" alt="Olivet College" title="Olivet College" class="clientImg"></a></td>
        <td class="clientInfo">
 	      <a href="http://www.olivetcollege.edu/"><h2>Olivet College - IT Consulting & Adjunct Professor</h2></a>
-        <p>I was instrumental in implementing and maintaining Olivet College&#8217;s experimental Linux-based computer lab. Additionally, I was previously an adjunct professor in the Computer Science department teaching Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.</p>
+        <p>I was instrumental in implementing and maintaining Olivet College&#8217;s experimental GNU/Linux-based computer lab. Additionally, I was previously an adjunct professor in the Computer Science department teaching Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -105,7 +105,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
     <tr class="clientRow">
       <td class="clientInfo">
 	      <a href="http://www.olivetcollege.edu/"><h2>Olivet College - IT Consulting & Adjunct Professor</h2></a>
-        <p>I was instrumental in implementing and maintaining Olivet College&#8217;s experimental Linux-based computer lab. Additionally, I was previously an adjunct professor in the Computer Science department teaching Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.</p>
+        <p>I was instrumental in implementing and maintaining Olivet College&#8217;s experimental GNU/Linux-based computer lab. Additionally, I was previously an adjunct professor in the Computer Science department teaching Computer Science I & II, Relational Database Systems, Computer Networking and Computer Organization & Assembly Language.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
