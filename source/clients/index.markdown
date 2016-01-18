@@ -23,7 +23,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
       <td class="imgCell"><a href="https://www.nsbasic.com/"><img src="/images/appstudio.png" alt="AppStudio" title="AppStudio" class="clientImg"></a></td>
       <td class="clientInfo">
         <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
-	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
+	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobile applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -87,7 +87,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
     <tr class="clientRowSm">
       <td class="clientInfo">
         <a href="https://www.nsbasic.com/"><h2>NS Basic Corporation - AppStudio</h2></a>
-	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobilb applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
+	      <p>AppStudio is a cross platform, integrated development environment for the creation of mobile applications. I&#8217;ve been involved with the project from the outset, first as the programming languages consultant and now as the lead developer.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
