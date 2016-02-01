@@ -1,7 +1,7 @@
 $img-border: inline-image('dotted-border.png');
 
 // Main Link Colors
-$link-color: #1e6b63 !default;
+$link-color: #dc8909 !default;
 $link-color-hover: adjust-color($link-color, $lightness: 20, $saturation: 0) !default;
 $link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
@@ -170,76 +170,31 @@ body {
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 550px) {
 
   body > nav {
-    -moz-border-radius: 0;
-    -webkit-border-radius: 0;
-    border-radius: 0;
+    -moz-border-radius: 0.4em;
+    -webkit-border-radius: 0.4em;
+    border-radius:0.4em;
     margin-bottom: 0;
   }
 
   #main{
-    -moz-border-radius-topleft: 0;
-    -moz-border-radius-topright: 0;
-    -webkit-border-radius: 0;
-    border-radius: 0;
+    -moz-border-radius-topleft: 0.4em;
+    -moz-border-radius-topright: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
   }
 
   #content{
-    -moz-border-radius-topleft: 0;
-    -webkit-border-radius: 0;
-    border-radius: 0;
+    -moz-border-radius-topleft: 0.4em;
+    -webkit-border-radius: 0.4em 0.4em 0.4em 0.4em;
+    border-radius: 0.4em 0.4em 0.4em 0.4em;
   }
 
   #content .blog-index a[rel="full-article"]{
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
-    border-radius: 0px;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  .clientTableSmall {
-    display: none;
-  }
-  .clientTableLarge {
-    width: 100%;
-  }
-  .clientRow {
-    height: 205px;
-  }
-  .imgCell {
-    width: 25%;
-  }
-  .clientInfo {
-    vertical-align: text-top;
-    padding-left: 10px;
-  }
-  .logo {
-    max-width: 100%;
-    height: 100%;
-    margin-left: .45em;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .clientTableLarge {
-    display: none;
-  }
-  
-  .clientTableSmall {
-    width: 100%;
-  }
-  
-  .clientRowSm {
-    height: 125px;
-  }
-  
-  .logo {
-    max-width: 95%;
-    height: 100%;
-    margin-left: .45em;
-    margin-right: .45em;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
   }
 }
