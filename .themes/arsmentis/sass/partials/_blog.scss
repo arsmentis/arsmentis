@@ -47,6 +47,9 @@ article {
     a { text-decoration: none;
       &:hover { text-decoration: underline; } }
   }
+  .unlinkedClient {
+    color: #1e6b63;
+  }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
   .feature {
