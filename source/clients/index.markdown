@@ -34,9 +34,9 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
       </td>
     </tr>
     <tr class="clientRow">
-      <td class="imgCell"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></td>
+      <td class="imgCell"><a href="https://tech.msu.edu/itservices/teaching-learning/"><img src="/images/msuLearnTeach.png" alt="MSU Teaching & Learning" title="MSU Teaching & Learning" class="clientImg"></a></td>
        <td class="clientInfo">
-	      <h2 class="unlinkedClient">MSU College of Education - Teaching & Learning</h2></a>
+	      <a href="https://tech.msu.edu/itservices/teaching-learning/"><h2>MSU Teaching & Learning - LDX</h2></a>
 	      <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
       </td>
     </tr>
@@ -98,7 +98,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
     </tr>
     <tr class="clientRowSm">
       <td class="clientInfo">
-	      <h2 class="unlinkedClient">MSU College of Education - Teaching & Learning</h2></a>
+	      <a href="https://tech.msu.edu/itservices/teaching-learning/"><h2>MSU Teaching & Learning - LDX</h2></a>
 	      <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
       </td>
     </tr>
