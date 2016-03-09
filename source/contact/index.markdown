@@ -7,22 +7,6 @@ sharing: false
 footer: true
 ---
 
-<p id="getStarted">Need help with a technology issue? Got an idea that needs hashing out? No problem! Contact me to get started.</p>
-
-<form role="form">
-  <div class="form-group">
-    <label for="InputEmail">Email:</label>
-    <input type="email" class="form-control" id="email" placeholder="example@email.com">
-  </div>
-  <div class="form-group">
-    <label for="MessageTextarea">Message:</label>
-    <textarea class="form-control" id="messageArea" placeholder="Please type your message here."></textarea>
-  </div>
-  <div class="form-group">
-    <input type="submit" value="Submit" id="submit">
-  </div>
-</form>
-
 **James Kruth | james@arsmentis.com **
 
 Phone: 517.325.3759<br>
