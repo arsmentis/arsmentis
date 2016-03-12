@@ -29,6 +29,7 @@ Capabilities
 
 * Mock-ups & design specifications
 * Web & mobile app development using modern frameworks like [AngularJS](https://angularjs.org/), [ExpressJS](http://expressjs.com/), [Flask](http://flask.pocoo.org/), [Bootstrap](http://getbootstrap.com/), [Ionic](http://ionicframework.com), and [Cordova](http://cordova.apache.org)
+* eCommerce integration using platforms such as [Stripe](https://stripe.com/)
 * Cross-platform development: iOS, Android, Windows, Mac OS
 * Database design and analysis
 * Automated data transformation & conversion
