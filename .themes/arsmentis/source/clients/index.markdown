@@ -13,10 +13,10 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
 
   <table class="clientTableLarge">
     <tr class="clientRow">
-      <td class="imgCell"><a href="https://demandfood.com/"><img src="/images/demandFood.png" alt="DemandFood" title="DemandFood" class="clientImg"></a></td>
+      <td class="imgCell"><a href="http://environmentreport.org/"><img src="/images/environmentReport.png" alt="Michigan Radio - The Environment Report" title="Michigan Radio - The Environment Report" class="clientImg"></a></td>
        <td class="clientInfo">
-	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
-	      <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
+	      <a href="http://environmentreport.org/"><h2>Michigan Radio - The Environment Report</h2></a>
+	      <p>BLURB GOES HERE.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -27,10 +27,10 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
       </td>
     </tr>
     <tr class="clientRow">
-      <td class="imgCell"><img src="/images/ilmansion.png" alt="Illinois Executive Mansion Association" title="Illinois Executive Mansion Association" class="clientImg"></td>
+      <td class="imgCell"><a href="https://demandfood.com/"><img src="/images/demandFood.png" alt="DemandFood" title="DemandFood" class="clientImg"></a></td>
        <td class="clientInfo">
-	      <h2 class="unlinkedClient">Illinois Executive Mansion Association - Custom Website Design & Development</h2>
-	      <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
+	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
+	      <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -38,6 +38,13 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
        <td class="clientInfo">
 	      <a href="https://tech.msu.edu/itservices/teaching-learning/"><h2>MSU Teaching & Learning - LDX</h2></a>
 	      <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
+      </td>
+    </tr>
+    <tr class="clientRow">
+      <td class="imgCell"><img src="/images/ilmansion.png" alt="Illinois Executive Mansion Association" title="Illinois Executive Mansion Association" class="clientImg"></td>
+       <td class="clientInfo">
+	      <h2 class="unlinkedClient">Illinois Executive Mansion Association - Custom Website Design & Development</h2>
+	      <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -80,8 +87,8 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
   <table class="clientTableSmall">
     <tr class="clientRowSm">
       <td class="clientInfo">
-	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
-	      <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
+	      <a href="http://environmentreport.org/"><h2>Michigan Radio - The Environment Report</h2></a>
+	      <p>BLURB GOES HERE.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
@@ -92,14 +99,20 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
     </tr>
     <tr class="clientRowSm">
       <td class="clientInfo">
-	      <h2 class="unlinkedClient">Illinois Executive Mansion Association - Custom Website Design & Development</h2>
-	      <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
+	      <a href="https://demandfood.com/"><h2>DemandFood - Mobile API & App Development</h2></a>
+	      <p>DemandFood is a food delivery service based in Austin, TX. I have created and currently support a mobile API and cross platform app which supports DemandFood&#8217;s delivery service using modern, highly available web technologies.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
       <td class="clientInfo">
 	      <a href="https://tech.msu.edu/itservices/teaching-learning/"><h2>MSU Teaching & Learning - LDX</h2></a>
 	      <p>I investigated and resolved a high priority networking issue with their Flash based LDX simulation. The task involved a deep dive into legacy source code to determine a root cause for intermittent connectivity problems between the media server and the back end database.</p>
+      </td>
+    </tr>
+    <tr class="clientRowSm">
+      <td class="clientInfo">
+	      <h2 class="unlinkedClient">Illinois Executive Mansion Association - Custom Website Design & Development</h2>
+	      <p>I created a custom website for the Illionois Executive Mansion Association, a non-profit organization. The fully responsive website design has been extensively tested for cross-browser compatability and has tailor-made donation processing using <a href="https://stripe.com/">stripe.com</a>.</p>
       </td>
     </tr>
     <tr class="clientRow">
