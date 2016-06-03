@@ -16,7 +16,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
       <td class="imgCell"><a href="http://environmentreport.org/"><img src="/images/environmentReport.png" alt="Michigan Radio - The Environment Report" title="Michigan Radio - The Environment Report" class="clientImg"></a></td>
        <td class="clientInfo">
 	      <a href="http://environmentreport.org/"><h2>Michigan Radio - The Environment Report</h2></a>
-	      <p>BLURB GOES HERE.</p>
+	      <p>I helped Michigan Radio move over 5000 articles (nearly 15 years of archives) from a custom build CMS to a standard <a href="https://WordPress.org/">WordPress</a> site. This process included cleaning data sources, transiting audio and images from the old site, and providing redirect links to maintain SEO with the new site.</p>
       </td>
     </tr>
     <tr class="clientRow">
@@ -88,7 +88,7 @@ From big businesses to independent entrepreneurs, I’ve helped a wide range of 
     <tr class="clientRowSm">
       <td class="clientInfo">
 	      <a href="http://environmentreport.org/"><h2>Michigan Radio - The Environment Report</h2></a>
-	      <p>BLURB GOES HERE.</p>
+	      <p>I helped Michigan Radio move over 5000 articles (nearly 15 years of archives) from a custom build CMS to a standard <a href="https://WordPress.org/">WordPress</a> site. This process included cleaning data sources, transiting audio and images from the old site, and providing redirect links to maintain SEO with the new site.</p>
       </td>
     </tr>
     <tr class="clientRowSm">
