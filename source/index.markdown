@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-description: Custom software solutions for clients of any size. All problems have solutions. Let me solve yours.
+description: Custom software solutions for clients of any size. All problems have solutions - Let me solve yours.
 comments: false
 sharing: false
 footer: true
