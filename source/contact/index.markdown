@@ -12,5 +12,5 @@ footer: true
 Phone/Fax: 517.325.3759<br>
 
 Ars Mentis LLC<br>
-5208 W Saginaw HWY #80421<br>
-Lansing MI 48908
+2075 W Stadium Blvd # 3348<br>
+Ann Arbor, MI 48106-7797
